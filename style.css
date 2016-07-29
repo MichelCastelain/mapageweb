@@ -12,6 +12,7 @@
   .marg .marg1{
     clear:both;
     display: block;
+    margin-left: 25px;
   }
 }
 
