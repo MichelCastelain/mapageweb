@@ -16,12 +16,8 @@
   .marg, .marg1{
     clear:both;
     display: block;
-    margin-left: 25px;
   }
 
-  .marg1{
-    padding-top: 2px;
-  }
 }
 
 .redimension {
