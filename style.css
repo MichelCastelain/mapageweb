@@ -85,12 +85,12 @@ hr{
     display:none;
   }
 
-  .left{
+  .flotte{
     clear:both;
     display: block;
   }
 
-  #nav a:link, #nav a:visited{
+  .marg .marg1{
     clear:both;
     display: block;
   }
