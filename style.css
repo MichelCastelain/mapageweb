@@ -7,10 +7,13 @@
   .flotte{
     clear:both;
     display: block;
+  }
+
+  .flotte img{
     height: 240px;
   }
 
-  .marg .marg1{
+  .marg, .marg1{
     clear:both;
     display: block;
     margin-left: 25px;
